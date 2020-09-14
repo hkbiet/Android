@@ -1,4 +1,4 @@
-# Android
+# Android  
 Android experiments, Simple but fun  App that doubles the digit on screen with each  tap.         
 
 ![GitHub Logo](https://raw.githubusercontent.com/hkbiet/Android/master/NayaWala/Screenshot_2020-05-13-10-22-45-452_com.example.nayawala.jpg)
